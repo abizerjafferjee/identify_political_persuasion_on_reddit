@@ -19,7 +19,7 @@ prepoc.py
 extractFeatures.py
 classify.py
 
-Data:
+Data (Files too big - request for data):
 Alt, Center, Left, Right - reddit posts for each type of political class
 
 Processing Files:
@@ -30,7 +30,7 @@ Feature Extraction:
 BristolNorms+GilhoolyLogie.csv
 Ratings_Warriner_et_al.csv
 Slang
-LIWC features and ids for each class
+LIWC features and ids for each class (Files too big - request for data)
 
 
 
